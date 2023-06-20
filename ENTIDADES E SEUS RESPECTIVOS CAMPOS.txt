@@ -1,0 +1,17 @@
+1. Quais são as entidades necessárias?
+São 4 Entidades: EMPRESA, SUB_EMPRESA, TECNOLOGIA e FUNCIONARIO
+
+2. Quais são os principais campos e seus respectivos tipos?
+ID_EMPRESA: INT
+NOME: VARCHAR
+CPF: INT
+CNPJ: INT
+TELEFONE:INT
+EMAIL: VARCHAR
+ENDERECO: VARCHAR
+TECNOLOGIA: VARCHAR
+FUNCAO: VARCHAR
+
+
+
+

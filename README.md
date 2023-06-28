@@ -3,6 +3,10 @@ Trabalho individual Modulo 3, Resilia.
 # Evidência
 Projeto individual de modelagem de dados com 4 entidades EMPRESA, SUB_EMPRESA, TECNOLOGIA, FUNCIONARIO
 com modelo conceitual e lógico e a simulação do cadastro de empresas, funcionários e tecnologia
+# Ferramentas
+Execel
+diagrams
+txt
 # Modelagem de Dados
 1. Quais são as entidades necessárias?;
 ENTIDADES E SEUS RESPEQUITIVOS CAMPOS
